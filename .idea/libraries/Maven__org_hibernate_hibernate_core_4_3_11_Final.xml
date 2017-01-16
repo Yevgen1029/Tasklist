@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate:hibernate-core:4.3.11.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar!/" />
+      <root url="file://$PROJECT_DIR$/../diagram/lib/JFreeChart" />
+      <root url="file://$PROJECT_DIR$/../diagram/lib/smartxls" />
+      <root url="jar://$PROJECT_DIR$/../diagram/lib/json-20160212.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../diagram/lib/json-simple-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../diagram/lib/JFreeChart" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../diagram/lib/smartxls" recursive="false" />
+  </library>
+</component>
